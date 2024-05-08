@@ -1,2 +1,6 @@
 this is some
+<<<<<<< HEAD
 secone one
+=======
+edided by someone
+>>>>>>> fd6eb3214536343320da74d1a76798202dc6bc66
